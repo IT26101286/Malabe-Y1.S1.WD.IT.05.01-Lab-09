@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class IT26101286Lab9Q2 {
 
     public static double circleArea(double radius) {
-        return Math.PI * radius * radius;
+        return Math.pi * radius * radius;
     }
 
     public static void main(String[] args) {
