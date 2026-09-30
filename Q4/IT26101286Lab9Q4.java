@@ -18,7 +18,7 @@ public class IT26101286Lab9Q4 {
     }
 
     public static void printDetails(String name, double finalMark, char grade) {
-        System.out.printf("%-10s %.2f     %c%n", name, finalMark, grade);
+        System.out.printf("%-10s %.2f     %c\n", name, finalMark, grade);
     }
 
     public static void main(String[] args) {
