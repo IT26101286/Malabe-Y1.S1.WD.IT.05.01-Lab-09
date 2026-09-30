@@ -22,7 +22,7 @@ public class IT26101286Lab9Q3 {
         int d = add(8, 3);
         int result2 = add(square(c), square(d));
 
-        System.out.println("Result of (3 * 4 + 5 * 7)² : " + result1);
-        System.out.println("Result of (4 + 7)² + (8 + 3)² : " + result2);
+        System.out.println("Result of (3 * 4 + 5 * 7)^2 : " + result1);
+        System.out.println("Result of (4 + 7)² + (8 + 3)^2 : " + result2);
     }
 }
